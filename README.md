@@ -11,6 +11,8 @@
 
 .welcome set [0/1] -控制入服欢迎开关（默认开启）
 
+------
+
 Special Thanks/特别感谢:
 
 [Fallen_Breath](https://github.com/Fallen-Breath/)
